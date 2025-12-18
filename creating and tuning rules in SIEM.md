@@ -16,7 +16,6 @@ THEN raise "Possible Brute Force Attack"
 Brute-force attacks try many passwords rapidly.
 
 ### Tuning Tips
-- Whitelist scanners
 - Ignore noisy service accounts
 
 ---

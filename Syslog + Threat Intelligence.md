@@ -196,3 +196,4 @@ This entire sequence may happen in **less than 2 seconds**.
 # ----------------------------------------------------
 
 
+<34>Oct 11 10:22:14 firewall01 kernel: Connection denied from 192.168.1.50
